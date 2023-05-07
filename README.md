@@ -1,3 +1,3 @@
 # audiosamples
 Примеры сгенерированных аудиофайлов
-<audio ref='themeSong' src="Egor19/audiosamples/загруженное.wav" autoPlay loop></audio>
+<audio ref='themeSong' src="https://github.com/Egor19/audiosamples/blob/main/загруженное.wav" autoPlay loop></audio>
