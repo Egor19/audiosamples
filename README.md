@@ -1,7 +1,7 @@
 # audiosamples
 Примеры сгенерированных аудиофайлов
 
-fdgh
+
 https://github.com/Egor19/audiosamples/assets/89296130/bbed82a5-b064-4b69-a8d5-340635011ded
 
 https://github.com/Egor19/audiosamples/assets/89296130/6081c974-e3fb-4827-bc9b-55fd559c2a53
